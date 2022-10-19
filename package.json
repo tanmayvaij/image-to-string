@@ -1,21 +1,27 @@
 {
   "name": "imagetostring",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple image to base64 string converter",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayvaij/image-to-string.git"
+  },
+  "keywords": [
+    "image-to-string"
+  ],
+  "author": "Tanmay Vaij",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.12",
-    "postcss": "^8.4.17",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^3.1.8"
   },
   "browserslist": {
