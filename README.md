@@ -1,5 +1,7 @@
 # Image-to-String
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4e47a45-b09b-4b30-8804-9cef9a1c16c8/deploy-status)](https://app.netlify.com/sites/image-to-string/deploys)
+
 A Simple image to base64 string converter application.
 
 ### How to get started ?
